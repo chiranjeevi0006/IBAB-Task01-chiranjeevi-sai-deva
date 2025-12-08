@@ -3,7 +3,7 @@
 
 ## Task Description  
 This task is part of the BIOHACK training program.  
-The goal is to learn essential developer skills that will be used in hackathons, research labs, and real companies:
+The goal is to learn and developer skills that will be used in hackathons, research labs, and real companies:
 
 - Setting up a Linux environment (WSL/Ubuntu)
 - Creating and using SSH keys for GitHub authentication
@@ -23,7 +23,7 @@ This version uses a *reverse inner loop* (from right to left), matching my pseud
 ### **How it works:**
 1. Start from the *end of the list*.
 2. Compare each pair of adjacent elements:  
-   - If "A[j] < A[j - 1]", swap them.
+   - If "A[j] < A[j-1]", swap them.
 3. Repeat this for every element until "i + 1".
 4. After each pass, the **smallest element moves toward the front**.
 5. If no swaps happen in an entire pass, the list is already sorted → **stop early**.
@@ -34,7 +34,7 @@ This version uses a *reverse inner loop* (from right to left), matching my pseud
 
 ---
 
-## ▶️ How to Run (Python)
+##  How to Run (Python)
 
  you should be inside the project folder.
 
